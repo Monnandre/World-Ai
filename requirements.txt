@@ -1,6 +1,6 @@
 asyncio
 aiofiles
-cv2
+opencv-python
 aiohttp
 discord
 numpy
