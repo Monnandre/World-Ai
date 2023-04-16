@@ -1,0 +1,6 @@
+asyncio
+aiofiles
+cv2
+aiohttp
+discord
+numpy
